@@ -1,2 +1,2 @@
-# DX-Ball
-A recreation of DX Ball game using iGraphics.
+# CSE-101-DX-Ball-Game
+ A recreation of DX Ball using iGraphics

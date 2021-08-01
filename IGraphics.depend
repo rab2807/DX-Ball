@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1603969940 source:c:\users\asus\desktop\igraphics-master\igraphics-master\solarsystem.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1603969940 c:\users\asus\desktop\igraphics-master\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1603969940 c:\users\asus\desktop\igraphics-master\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1603969940 c:\users\asus\desktop\igraphics-master\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1603969940 c:\users\asus\desktop\igraphics-master\igraphics-master\opengl\include\gl.h
+
+1604298816 source:c:\users\asus\desktop\igraphics-master\igraphics-master\curves.cpp
+	"iGraphics.h"
+	<math.h>
+
+1605945312 source:c:\users\asus\desktop\igraphics-master\igraphics-master\game.cpp
+	"iGraphics.h"
+
+1606416314 source:c:\users\asus\desktop\igraphics-master\igraphics-master\boom.cpp
+	"iGraphics.h"
+
+1606807701 source:c:\users\asus\desktop\igraphics-master\igraphics-master\game of life.cpp
+	"iGraphics.h"
+	<stdbool.h>
+
+1607806200 source:c:\users\asus\desktop\igraphics-master\igraphics-master\dx ball.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+
+1607619452 source:c:\users\asus\desktop\igraphics-master\igraphics-master\pause menu.cpp
+	"iGraphics.h"
+	"gl.h"
+
